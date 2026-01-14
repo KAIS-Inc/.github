@@ -1,1 +1,1 @@
-# .github
+# friend-web
